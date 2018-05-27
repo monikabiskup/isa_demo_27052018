@@ -1,1 +1,1 @@
-...Przykladowe read me
+Druga zmiana 
