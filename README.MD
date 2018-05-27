@@ -1,1 +1,1 @@
-Przykladowe read me
+...Przykladowe read me
